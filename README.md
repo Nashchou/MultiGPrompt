@@ -3,8 +3,8 @@
 ## Package Dependencies
 
 - cuda 11.3
-- dgl0.9.0-cu113
-- dgllife
+- cu113
+- pyG
 
 ## Running experiments
 
