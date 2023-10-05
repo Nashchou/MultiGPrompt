@@ -1,4 +1,4 @@
-# GraphCL in Node-Classification Tasks
+# Mulitiprompt in TU Node-Classification Tasks
 
 ## 1. Requirements
 
