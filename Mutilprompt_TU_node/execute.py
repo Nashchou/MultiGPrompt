@@ -209,7 +209,7 @@ model.load_state_dict(torch.load(args.save_name))
 dgiprompt = model.dgi.prompt
 graphcledgeprompt = model.graphcledge.prompt
 lpprompt = model.lp.prompt
-downstreamlr = 0.01
+downstreamlr = 0.001
 
 
 for shotnum in range(1,2):
