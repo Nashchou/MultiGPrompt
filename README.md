@@ -1,5 +1,15 @@
 # Multiprompt
 
+## Description
+
+The repository is organised as follows:
+
+- **data/**: contains data we use.
+- **modelset/**: contains pre-train model we use
+- **Mutilprompt_CoraCiteseer_node/**: implements pre-training and downstream tasks at the node level for Cora and Citeseer.
+- **Mutilprompt_TU_node/**: implements pre-training and downstream tasks at the node level for TUdatasets. 
+- **Mutilprompt_TU_graph/**: implements pre-training and downstream tasks at the graph level for TUdatasets.
+
 ## Package Dependencies
 
 - cuda 11.3
