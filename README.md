@@ -34,7 +34,7 @@ Pretrain Prompt tune and test:
 `python execute.py`
 
 
-### Graph Classification
+### Graph Classification for BZR,COX2,ENZYMES,PROTEINS.
 Default dataset is ENZYMES. You need to change the corresponding parameters in *preprompt.py*, *downprompt.py.py* and *execute.py* to train and evaluate on other datasets.
 
 Pretrain Prompt tune and test:
