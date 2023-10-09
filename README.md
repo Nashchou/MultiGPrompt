@@ -6,9 +6,9 @@ The repository is organised as follows:
 
 - **data/**: contains data we use.
 - **modelset/**: contains pre-trained model we use
-- **Mutilprompt_CoraCiteseer_node/**: implements pre-training and downstream tasks for Cora and Citeseer.
-- **Mutilprompt_TU_node/**: implements pre-training and downstream task for ENZYMES and PROTEINS. 
-- **Mutilprompt_TU_graph/**: implements pre-training for BZR and COX2, downstream task for BZR,COX2,ENZYMES,PROTEINS.
+- **MutilGPrompt_CoraCiteseer_node/**: implements pre-training and downstream tasks for Cora and Citeseer.
+- **MutilGPrompt_TU_node/**: implements pre-training and downstream task for ENZYMES and PROTEINS. 
+- **MutilGPrompt_TU_graph/**: implements pre-training for BZR and COX2, downstream task for BZR,COX2,ENZYMES,PROTEINS.
 
 ## Package Dependencies
 
