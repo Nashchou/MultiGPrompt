@@ -13,6 +13,7 @@ The repository is organised as follows:
 ## Package Dependencies
 
 - python 3.8.16
+- pytorch 1.10.1
 - cuda 11.3
 - pyG 2.0.0
 
