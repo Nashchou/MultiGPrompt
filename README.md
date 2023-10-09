@@ -12,8 +12,8 @@ The repository is organised as follows:
 
 ## Package Dependencies
 
-- cuda 11.3
 - python 3.8.16
+- cuda 11.3
 - pyG 2.0.0
 
 ## Running experiments
