@@ -23,17 +23,20 @@ Due to the limitation of file size, we upload all datasets except for PROTEINS. 
 
 ### Node Classification for Cora and Citeseer 
 Default dataset is Cora. You need to change the corresponding parameters in *preprompt.py*,*downprompt.py.py* and *execute.py* to train and evaluate on other datasets.
+
 Pretrain Prompt tune and test:
 `python execute.py`
 
 ### Node Classification for ENZYMES and PROTEINS 
 Default dataset is ENZYMES. You need to change the corresponding parameters in *preprompt.py*,*downprompt.py.py* and *execute.py* to train and evaluate on other datasets.
+
 Pretrain Prompt tune and test:
 `python execute.py`
 
 
 ### Graph Classification
 Default dataset is ENZYMES. You need to change the corresponding parameters in *preprompt.py*,*downprompt.py.py* and *execute.py* to train and evaluate on other datasets.
+
 Pretrain Prompt tune and test:
 `python execute.py`
 
