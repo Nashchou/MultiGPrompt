@@ -70,8 +70,8 @@ nonlinearity = 'prelu'  # special name to separate parameters
 
 dataset = TUDataset(root='data', name='ENZYMES',use_node_attr=True)                                                                                                
 loader = DataLoader(dataset,batch_size=batch_size,shuffle=True,drop_last=True)
-a1 = 0.9    #dgi
-a2 = 0.9    #graphcl
+a1 = 0.72    #dgi
+a2 = 0.18    #graphcl
 a3 = 0.1    #lp
 ft_size = 18
 
