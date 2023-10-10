@@ -148,8 +148,8 @@ list2=[0.0001]
 for lr in list2:
     for hid_units in list1:
         for a4 in lista4:
-            a1 = 0.9
-            a2 = 0.9
+            a1 = 0.72
+            a2 = 0.18
             a3 = 0.1 
             model = PrePrompt(ft_size, hid_units, nonlinearity,negetive_sample,a1,a2,a3,a4,1,0.3)
             optimiser = torch.optim.Adam(model.parameters(), lr=lr, weight_decay=l2_coef)
