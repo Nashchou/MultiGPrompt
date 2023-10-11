@@ -79,8 +79,8 @@ dataset = TUDataset(root='data', name='ENZYMES',use_node_attr=True)
 
 loader = DataLoader(dataset,batch_size=batch_size,shuffle=True,drop_last=True)
 
-a1 = 0.72
-a2 = 0.18
+a1 = 0.9
+a2 = 0.9
 a3 = 0.1
 ft_size = 18
 
