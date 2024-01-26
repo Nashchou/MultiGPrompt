@@ -1,5 +1,6 @@
 # MultiGPrompt
-
+We provide the code (in pytorch) and datasets for our paper [**"MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs"**](https://arxiv.org/pdf/2312.03731.pdf)), 
+which is accepted by WWW2024.
 ## Description
 
 The repository is organised as follows:
